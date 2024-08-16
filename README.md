@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @suelenmedinape
-- 🌱 Currently, I'm doing a JavaScript bootcamp.
 - ☕ Attending Santander's Back-end with Java bootcamp.
 - 📫 How to reach me suelenmedinape@gmail.com
 - ⚡ Fun fact: Faço Bacharelado em Sistemas de Informação no IFF - Instituo Federal Fluminense e tenho técnico em informática também no IFF.
