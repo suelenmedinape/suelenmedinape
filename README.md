@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @suelenmedinape  
 - ☕ Attending Santander's Back-end with Java bootcamp.  
 - 📫 How to reach me suelenmedinape@gmail.com  
-- ⚡ Fun fact: Faço Bacharelado em Sistemas de Informação no IFF - Instituo Federal Fluminense e tenho técnico em informática também no IFF.  
+- ⚡ Fun fact:  
+  - Faço Bacharelado em Sistemas de Informação no IFF - Instituo Federal Fluminense.  
+  - Técnico em informática no IFF - Instituo Federal Fluminense.  
 
 > Sistemas Operacionais  
 > ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white) ![Windows 10](https://img.shields.io/badge/Windows%2010-%230079d5.svg?style=for-the-badge&logo=Windows%2010&logoColor=white) 
