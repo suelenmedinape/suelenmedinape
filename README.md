@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @suelenmedinape  
-- ☕ Attending Santander's Back-end with Java bootcamp.  
-- 📫 How to reach me suelenmedinape@gmail.com  
-- ⚡ Fun fact:  
+- 👋 Olá, sou Suelen Medina 
+- ☕ Participação no bootcamp Back-end com Java do Santander.  
+- 📫 Como entrar em contato comigo suelenmedinape@gmail.com 
+- ⚡ Curiosidade:  
   - Faço Bacharelado em Sistemas de Informação no IFF - Instituo Federal Fluminense.  
   - Técnico em informática no IFF - Instituo Federal Fluminense.  
 
