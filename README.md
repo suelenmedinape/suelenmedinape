@@ -1,5 +1,6 @@
 - 👋 Olá, sou Suelen Medina 
-- ☕ Participação no bootcamp Back-end com Java do Santander.  
+- ☕ Completei o bootcamp de Back-end com Java do Santander.
+- 🐘 Completei a Formação PHP Experience
 - 📫 Como entrar em contato comigo suelenmedinape@gmail.com 
 - ⚡ Curiosidade:  
   - Faço Bacharelado em Sistemas de Informação no IFF - Instituo Federal Fluminense.  
