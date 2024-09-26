@@ -1,4 +1,3 @@
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=suelenmedinape&theme=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Github Stats"/>
 
 ### Olá, meu nome é Suelen!
 
