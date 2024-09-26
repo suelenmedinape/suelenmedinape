@@ -48,7 +48,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Sistema Web** \
 **Histórico de Atendimentos Médicos** • Full-stack \
-Linguagens & Tecnologias: `Java`, `PrimeFaces`, `JSF`, `MySQL`, `Eclipse`, `JPA`\
+Linguagens & Tecnologias: `Java`, `PrimeFaces`, `JSF`, `MySQL`, `Eclipse`, `JPA`, `JavaServer Faces`, `WildFly`\
 Link do projeto: [Gerenciar Histórico](https://github.com/suelenmedinape/projeto-JSF-gerenciar-historico)
 <br/>
 
