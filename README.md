@@ -46,7 +46,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.istockphoto.com/id/1319031310/pt/foto/doctor-writing-a-medical-prescription.jpg?s=2048x2048&w=is&k=20&c=QYA3MG66k6bTSGUY3QTJq1vWnR_3eCNl2qGajHWqu00="/>](https://www.spacex.com/)
 
-**Sistema Web** \
+**Sistema Web de Gerenciamento** \
 **Histórico de Atendimentos Médicos** • Full-stack \
 Linguagens & Tecnologias: `Java`, `PrimeFaces`, `JSF`, `MySQL`, `Eclipse`, `JPA`, `JavaServer Faces`, `WildFly`\
 Link do projeto: [Gerenciar Histórico](https://github.com/suelenmedinape/projeto-JSF-gerenciar-historico)
@@ -64,7 +64,7 @@ Link do projeto: [Gerenciar Filiais](https://github.com/suelenmedinape/projeto-J
 
 **Sistema Dinamico** \
 **Site Dinámico** • Backend \
-Linguagens & Tecnologias: `JavaScript`, `PHP`, `JQuery`, `AJAX`, `JSON`, `HTML`, `CSS` \
+Linguagens & Tecnologias: `JavaScript`, `PHP`, `JQuery`, `AJAX`, `JSON`, `HTML`, `CSS`, `Linux Mint` \
 Projetos em destaque: [Projeto](https://github.com/suelenmedinape/dinamyc-project)
 <br/>
 <br/>
