@@ -61,7 +61,7 @@ Linguagens & Tecnologias: `Java`, `JavaServer Faces`, `MySQL`, `Eclipse`, `JPA`,
 Link do projeto: [Gerenciar Filiais](https://github.com/suelenmedinape/projeto-JSF)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.istockphoto.com/id/1136302538/pt/vetorial/thunder-electricity-power-icon.jpg?s=612x612&w=is&k=20&c=G3stlUMj3Oru20RLAl6EeRYIP8J90wtb6JYYdHIRUqI="/>](https://nubank.com.br/)
 
 **Sistema Dinamico** \
 **Site Dinámico** • Backend \
