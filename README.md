@@ -44,23 +44,17 @@ Formação CSS Web Developer
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.istockphoto.com/id/1319031310/pt/foto/doctor-writing-a-medical-prescription.jpg?s=2048x2048&w=is&k=20&c=QYA3MG66k6bTSGUY3QTJq1vWnR_3eCNl2qGajHWqu00="/>](https://www.spacex.com/)
-
 **Sistema Web de Gerenciamento** \
 **Histórico de Atendimentos Médicos** • Full-stack \
 Linguagens & Tecnologias: `Java`, `PrimeFaces`, `JSF`, `MySQL`, `Eclipse`, `JPA`, `JavaServer Faces`, `WildFly`\
 Link do projeto: [Gerenciar Histórico](https://github.com/suelenmedinape/projeto-JSF-gerenciar-historico)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.istockphoto.com/id/517374252/pt/foto/edif%C3%ADcio-de-escrit%C3%B3rios-de-neg%C3%B3cios-em-londres-inglaterra.jpg?s=612x612&w=is&k=20&c=6A2RhVRA8tTw90_Thm59MlwKyRJYEIK_9MZ7FIIM0PE="/>](https://rocketseat.com.br/)
-
-**Sistema Web** \
+**Cadastro de Produto** \
 **Gerenciamento de Filiais** • Backend \
-Linguagens & Tecnologias: `Java`, `JavaServer Faces`, `MySQL`, `Eclipse`, `JPA`, `WildFly`\
-Link do projeto: [Gerenciar Filiais](https://github.com/suelenmedinape/projeto-JSF)
+Linguagens & Tecnologias: `PHP`, `Laravel`, `Composer`, `MySQL`\
+Link do projeto: [Mercado de Produtos](https://github.com/suelenmedinape/projeto-crud-com-laravel)
 <br/>
-
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.istockphoto.com/id/1136302538/pt/vetorial/thunder-electricity-power-icon.jpg?s=612x612&w=is&k=20&c=G3stlUMj3Oru20RLAl6EeRYIP8J90wtb6JYYdHIRUqI="/>](https://nubank.com.br/)
 
 **Sistema Dinamico** \
 **Site Dinámico** • Backend \
@@ -69,4 +63,4 @@ Projetos em destaque: [Projeto](https://github.com/suelenmedinape/dinamyc-projec
 <br/>
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/suelen-medina-aa57872a3/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Encontre-me no [LinkedIn](https://www.linkedin.com/in/suelen-medina-aa57872a3/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
