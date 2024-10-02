@@ -3,9 +3,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=suelenmedinape&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Faço Bacharelado em Sistemas de Informação<br/> Eu sou desenvolvedora backend</p>  
-
-<br/>
+<p>Faço Bacharelado em Sistemas de Informação<br/> Sou desenvolvedora backend</p>  
   
 ## Minhas Habilidades
 
@@ -63,4 +61,7 @@ Projetos em destaque: [Projeto](https://github.com/suelenmedinape/dinamyc-projec
 <br/>
 <br/>
 
-Encontre-me no [LinkedIn](https://www.linkedin.com/in/suelen-medina-aa57872a3/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+## Conecte-se Comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suelenmedidnape/) 
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:suelenmedinap)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suelenmedinap/)
