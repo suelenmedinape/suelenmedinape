@@ -38,7 +38,7 @@ Formação CSS Web Developer
   css - css responsivo - bootstrap
 ``` 
 
-## Projetos em destaque
+## Projeto em destaque
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
@@ -46,18 +46,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Histórico de Atendimentos Médicos** • Full-stack \
 Linguagens & Tecnologias: `Java`, `PrimeFaces`, `JSF`, `MySQL`, `Eclipse`, `JPA`, `JavaServer Faces`, `WildFly`\
 Link do projeto: [Gerenciar Histórico](https://github.com/suelenmedinape/projeto-JSF-gerenciar-historico)
-<br/>
-
-**Cadastro de Produto** \
-**Gerenciamento de Filiais** • Backend \
-Linguagens & Tecnologias: `PHP`, `Laravel`, `Composer`, `MySQL`\
-Link do projeto: [Mercado de Produtos](https://github.com/suelenmedinape/projeto-crud-com-laravel)
-<br/>
-
-**Sistema Dinamico** \
-**Site Dinámico** • Backend \
-Linguagens & Tecnologias: `JavaScript`, `PHP`, `JQuery`, `AJAX`, `JSON`, `HTML`, `CSS`, `Linux Mint` \
-Projetos em destaque: [Projeto](https://github.com/suelenmedinape/dinamyc-project)
 <br/>
 <br/>
 
