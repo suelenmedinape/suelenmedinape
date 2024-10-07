@@ -1,25 +1,19 @@
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=suelenmedinape&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-### Olá, meu nome é Suelen!
+### Olá, meu nome é Suelen Medina!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=suelenmedinape&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Faço Bacharelado em Sistemas de Informação<br/> Sou desenvolvedora backend</p>  
+<p>Estudando no IFF - Intituto Federal ondde faço Sistemas de Informação<br/> Eu sou desenvolvedor Backend</p>
   
 ## Minhas Habilidades
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"/></code>
+![JavaScript](https://img.shields.io/badge/JavaScript-f8efd4?style=for-the-badge&logo=javascript&logoColor=783c00)
+![PHP](https://img.shields.io/badge/PHP-f8efd4?style=for-the-badge&logo=php&logoColor=783c00)
+![Java](https://img.shields.io/badge/java-f8efd4.svg?style=for-the-badge&logo=openjdk&logoColor=783c00)
+![MySQL](https://img.shields.io/badge/MySQL-f8efd4?style=for-the-badge&logo=mysql&logoColor=783c00)
+![Mint](https://img.shields.io/badge/Linux%20Mint-f8efd4?style=for-the-badge&logo=Linux%20Mint&logoColor=783c00)
+![Git](https://img.shields.io/badge/GIT-f8efd4?style=for-the-badge&logo=git&logoColor=783c00)
 
 ## Meus Certificados 
 ```
@@ -38,18 +32,7 @@ Formação CSS Web Developer
   css - css responsivo - bootstrap
 ``` 
 
-## Projeto em destaque
-
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-**Sistema Web de Gerenciamento** \
-**Histórico de Atendimentos Médicos** • Full-stack \
-Linguagens & Tecnologias: `Java`, `PrimeFaces`, `JSF`, `MySQL`, `Eclipse`, `JPA`, `JavaServer Faces`, `WildFly`\
-Link do projeto: [Gerenciar Histórico](https://github.com/suelenmedinape/projeto-JSF-gerenciar-historico)
-<br/>
-<br/>
-
 ## Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suelenmedidnape/) 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:suelenmedinap)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suelenmedinap/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f8efd4?style=for-the-badge&logo=linkedin&logoColor=783c00)](https://www.linkedin.com/in/suelenmedidnape/) 
+[![Gmail](https://img.shields.io/badge/Gmail-f8efd4?style=for-the-badge&logo=gmail&logoColor=783c00)](mailto:suelenmedinap)
+[![Instagram](https://img.shields.io/badge/-Instagram-f8efd4?style=for-the-badge&logo=instagram&logoColor=783c00)](https://www.instagram.com/suelenmedinap/)
