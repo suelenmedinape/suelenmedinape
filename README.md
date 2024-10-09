@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=suelenmedinape&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Estudando no IFF - Intituto Federal ondde faço Sistemas de Informação<br/> Eu sou desenvolvedor Backend</p>
+<p>Estudando no Intituto Federal onde faço Sistemas de Informação<br/> Eu sou desenvolvedor Backend</p>
   
 ## Minhas Habilidades
 
