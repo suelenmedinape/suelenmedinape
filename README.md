@@ -20,22 +20,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-f8efd4?style=for-the-badge&logo=css3&logoColor=783c00)
 ![Laravel](https://img.shields.io/badge/laravel-f8efd4.svg?style=for-the-badge&logo=laravel&logoColor=783c00)
 
-## Meus Certificados 
-```
-Backend com Java 
-  Habilidades adquiridas com o curso
-  Java - Spring - Collections - SQL - NoSQL
-```
-```
-Formação PHP Experience   
-  Habilidades adquiridas com o curso
-  PHP - Laravel - Postman - Composer
-```
-```
-Formação CSS Web Developer  
-  Habilidades adquiridas com o curso
-  css - css responsivo - bootstrap
-``` 
+## Meus Certificados
+
+[<img src="https://assets.dio.me/7fBn4snFZGzJtNuYIdkJ9ec6bXUGC-XOZZo4eiE89WA/f:webp/h:120/q:80/L3RyYWNrcy9hMDM5YjM0Yy03YWE4LTRhM2QtYjc2NS0wN2M4YzgzN2Y2N2EucG5n" height="100"></a>](https://hermes.dio.me/certificates/JQVMTCW4.pdf)
+[<img src="https://assets.dio.me/kzmnpNCSrZh0LAbVHyh8ns7flweLXka1dAbGYKX_kMA/f:webp/h:120/q:80/L3RyYWNrcy8yMGIwNGRkZi00MmE3LTQ5NDUtYjAwNC1lNmNkOGIxYTc5OGYucG5n" height="90"></a>](https://hermes.dio.me/certificates/NU0QL0JX.pdf)
+[<img src="https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n" height="90"></a>](https://hermes.dio.me/certificates/33A2TFYY.pdf)
+[<img src="https://assets.dio.me/xpg727feOCFHSMAL25KWbqwBMk3omWspkWlx3TqMbJU/f:webp/h:120/q:80/L3RyYWNrcy9jZmVjZGRiOC04ODljLTQwM2YtOGVkYi01NzcxYjk3ZTk4MmYucG5n" height="90"></a>](https://assets.dio.me/xpg727feOCFHSMAL25KWbqwBMk3omWspkWlx3TqMbJU/f:webp/h:120/q:80/L3RyYWNrcy9jZmVjZGRiOC04ODljLTQwM2YtOGVkYi01NzcxYjk3ZTk4MmYucG5n)
+[<img src="https://assets.dio.me/fRqQMq4qSfzcasq6yR4asCP-CjE5EcRD53Q5RqL3TfE/f:webp/h:120/q:80/L3RyYWNrcy9jMmMwMGNhZi05MDUwLTQzYWItYmExMi0zYmMwNWZlYmZhZDIucG5n" height="100"></a>](https://assets.dio.me/fRqQMq4qSfzcasq6yR4asCP-CjE5EcRD53Q5RqL3TfE/f:webp/h:120/q:80/L3RyYWNrcy9jMmMwMGNhZi05MDUwLTQzYWItYmExMi0zYmMwNWZlYmZhZDIucG5n)
 
 ## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f8efd4?style=for-the-badge&logo=linkedin&logoColor=783c00)](https://www.linkedin.com/in/suelenmedidnape/) 
