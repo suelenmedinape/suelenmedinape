@@ -2,7 +2,7 @@
 
 ### Olá, meu nome é Suelen Medina!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=suelenmedinape&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+[![Static GitHub](https://img.shields.io/static/v1?label=Perfil%20de%20Projetos%20Feitos%20os%20Durante%20Cursos&message=medinspe&color=f8efd4&style=for-the-badge&logo=GitHub)](https://github.com/medinspe)
 
 <p>Estudando no Intituto Federal onde faço Sistemas de Informação<br/> Eu sou desenvolvedor Backend</p>
   
