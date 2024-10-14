@@ -27,7 +27,6 @@
 [<img src="https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n" height="90"></a>](https://hermes.dio.me/certificates/33A2TFYY.pdf)
 [<img src="https://assets.dio.me/xpg727feOCFHSMAL25KWbqwBMk3omWspkWlx3TqMbJU/f:webp/h:120/q:80/L3RyYWNrcy9jZmVjZGRiOC04ODljLTQwM2YtOGVkYi01NzcxYjk3ZTk4MmYucG5n" height="90"></a>](https://hermes.dio.me/certificates/DARL9GXJ.pdf)
 [<img src="https://hermes.dio.me/courses/badge/b58e9d1f-fea4-410b-a1d8-51b445fc9ed8.png" height="90"></a>](https://hermes.dio.me/certificates/FCO2N0M9.pdf)
-[<img src="https://assets.dio.me/gt-tEnhv4_p33iwDXfI-zutfiEJ-q27qVfDCcnLV7I0/f:webp/h:120/q:80/L3RyYWNrcy9kYTA0M2M3YS03MTg5LTQ0MWUtYmYyOC1hZGMyZDA1YTQ5MzQucG5n" height="90"></a>](https://web.dio.me/track/formacao-css-web-developer)
 
 ## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f8efd4?style=for-the-badge&logo=linkedin&logoColor=783c00)](https://www.linkedin.com/in/suelenmedidnape/) 
