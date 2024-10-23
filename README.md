@@ -19,7 +19,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-f8efd4?style=for-the-badge&logo=html5&logoColor=783c00)
 ![CSS3](https://img.shields.io/badge/CSS3-f8efd4?style=for-the-badge&logo=css3&logoColor=783c00)
 ![Laravel](https://img.shields.io/badge/laravel-f8efd4.svg?style=for-the-badge&logo=laravel&logoColor=783c00)
-![C#](https://img.shields.io/badge/c%23-f8efd4.svg?style=for-the-badge&logo=c%2B%2B&logoColor=783c00)
+<!-- ![C#](https://img.shields.io/badge/c%23-f8efd4.svg?style=for-the-badge&logo=c%2B%2B&logoColor=783c00) -->
 
 ## Meus Certificados
 
