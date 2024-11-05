@@ -23,11 +23,11 @@
 
 ## Meus Certificados
 
-[<img src="https://assets.dio.me/7fBn4snFZGzJtNuYIdkJ9ec6bXUGC-XOZZo4eiE89WA/f:webp/h:120/q:80/L3RyYWNrcy9hMDM5YjM0Yy03YWE4LTRhM2QtYjc2NS0wN2M4YzgzN2Y2N2EucG5n" height="100"></a>](https://hermes.dio.me/certificates/JQVMTCW4.pdf)
-[<img src="https://assets.dio.me/kzmnpNCSrZh0LAbVHyh8ns7flweLXka1dAbGYKX_kMA/f:webp/h:120/q:80/L3RyYWNrcy8yMGIwNGRkZi00MmE3LTQ5NDUtYjAwNC1lNmNkOGIxYTc5OGYucG5n" height="90"></a>](https://hermes.dio.me/certificates/NU0QL0JX.pdf)
-[<img src="https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n" height="90"></a>](https://hermes.dio.me/certificates/33A2TFYY.pdf)
-[<img src="https://assets.dio.me/xpg727feOCFHSMAL25KWbqwBMk3omWspkWlx3TqMbJU/f:webp/h:120/q:80/L3RyYWNrcy9jZmVjZGRiOC04ODljLTQwM2YtOGVkYi01NzcxYjk3ZTk4MmYucG5n" height="90"></a>](https://hermes.dio.me/certificates/DARL9GXJ.pdf)
-[<img src="https://hermes.dio.me/courses/badge/9821ac49-d0b0-46d3-8d69-e0f4f82ea34e.png" height="90"></a>](https://hermes.dio.me/certificates/FCO2N0M9.pdf)
+[<img src="https://assets.dio.me/7fBn4snFZGzJtNuYIdkJ9ec6bXUGC-XOZZo4eiE89WA/f:webp/h:120/q:80/L3RyYWNrcy9hMDM5YjM0Yy03YWE4LTRhM2QtYjc2NS0wN2M4YzgzN2Y2N2EucG5n" height="60"></a>](https://hermes.dio.me/certificates/JQVMTCW4.pdf)
+[<img src="https://assets.dio.me/kzmnpNCSrZh0LAbVHyh8ns7flweLXka1dAbGYKX_kMA/f:webp/h:120/q:80/L3RyYWNrcy8yMGIwNGRkZi00MmE3LTQ5NDUtYjAwNC1lNmNkOGIxYTc5OGYucG5n" height="55"></a>](https://hermes.dio.me/certificates/NU0QL0JX.pdf)
+[<img src="https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n" height="55"></a>](https://hermes.dio.me/certificates/33A2TFYY.pdf)
+[<img src="https://assets.dio.me/xpg727feOCFHSMAL25KWbqwBMk3omWspkWlx3TqMbJU/f:webp/h:120/q:80/L3RyYWNrcy9jZmVjZGRiOC04ODljLTQwM2YtOGVkYi01NzcxYjk3ZTk4MmYucG5n" height="56"></a>](https://hermes.dio.me/certificates/DARL9GXJ.pdf)
+[<img src="https://hermes.dio.me/courses/badge/9821ac49-d0b0-46d3-8d69-e0f4f82ea34e.png" height="56"></a>](https://hermes.dio.me/certificates/FCO2N0M9.pdf)
 <!-- [<img src="https://hermes.dio.me/courses/badge/51380620-d09b-49cf-8720-dc45eae34486.png" height="90"></a>](https://www.udemy.com/course/csharp-completo-e-profissional/?couponCode=MTST7102224B2) -->
 
 ## Conecte-se Comigo
