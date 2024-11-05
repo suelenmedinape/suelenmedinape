@@ -8,19 +8,18 @@
   
 ## Minhas Habilidades
 
-![JavaScript](https://img.shields.io/badge/JavaScript-f8efd4?style=for-the-badge&logo=javascript&logoColor=783c00)
 ![PHP](https://img.shields.io/badge/PHP-f8efd4?style=for-the-badge&logo=php&logoColor=783c00)
+![Laravel](https://img.shields.io/badge/laravel-f8efd4.svg?style=for-the-badge&logo=laravel&logoColor=783c00)
 ![Java](https://img.shields.io/badge/java-f8efd4.svg?style=for-the-badge&logo=openjdk&logoColor=783c00)
-![MySQL](https://img.shields.io/badge/MySQL-f8efd4?style=for-the-badge&logo=mysql&logoColor=783c00)
-![Mint](https://img.shields.io/badge/Linux%20Mint-f8efd4?style=for-the-badge&logo=Linux%20Mint&logoColor=783c00)
+![PrimeFaces](https://img.shields.io/badge/PrimeFaces-f8efd4.svg?style=for-the-badge&logo=primefaces&logoColor=783c00)
+![Hibernate](https://img.shields.io/badge/Hibernate-f8efd4?style=for-the-badge&logo=Hibernate&logoColor=783c00)
 ![Git](https://img.shields.io/badge/GIT-f8efd4?style=for-the-badge&logo=git&logoColor=783c00)
 [![GitHub](https://img.shields.io/badge/GitHub-f8efd4?style=for-the-badge&logo=github&logoColor=783c00)](https://github.com/suelenmedinape)
 [![GitLab](https://img.shields.io/badge/GitLab-f8efd4?style=for-the-badge&logo=gitlab&logoColor=783c00)](https://gitlab.com/suelenmedinape)
-![HTML5](https://img.shields.io/badge/HTML5-f8efd4?style=for-the-badge&logo=html5&logoColor=783c00)
-![CSS3](https://img.shields.io/badge/CSS3-f8efd4?style=for-the-badge&logo=css3&logoColor=783c00)
-![Laravel](https://img.shields.io/badge/laravel-f8efd4.svg?style=for-the-badge&logo=laravel&logoColor=783c00)
-![PrimeFaces](https://img.shields.io/badge/PrimeFaces-f8efd4.svg?style=for-the-badge&logo=primefaces&logoColor=783c00)
-<!-- ![C#](https://img.shields.io/badge/c%23-f8efd4.svg?style=for-the-badge&logo=c%2B%2B&logoColor=783c00) -->
+![C#](https://img.shields.io/badge/c%23-f8efd4.svg?style=for-the-badge&logo=c%2B%2B&logoColor=783c00)
+![.Net](https://img.shields.io/badge/.NET-f8efd4?style=for-the-badge&logo=.net&logoColor=783c00)
+![Firebase](https://img.shields.io/badge/firebase-f8efd4.svg?style=for-the-badge&logo=firebase&logoColor=783c00)
+![MySQL](https://img.shields.io/badge/MySQL-f8efd4?style=for-the-badge&logo=mysql&logoColor=783c00)
 
 ## Meus Certificados
 
