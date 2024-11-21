@@ -8,18 +8,21 @@
   
 ## Minhas Habilidades
 
-![PHP](https://img.shields.io/badge/PHP-f8efd4?style=for-the-badge&logo=php&logoColor=783c00)
-![Laravel](https://img.shields.io/badge/laravel-f8efd4.svg?style=for-the-badge&logo=laravel&logoColor=783c00)
 ![Java](https://img.shields.io/badge/java-f8efd4.svg?style=for-the-badge&logo=openjdk&logoColor=783c00)
-![PrimeFaces](https://img.shields.io/badge/PrimeFaces-f8efd4.svg?style=for-the-badge&logo=primefaces&logoColor=783c00)
-![Hibernate](https://img.shields.io/badge/Hibernate-f8efd4?style=for-the-badge&logo=Hibernate&logoColor=783c00)
+![JWT](https://img.shields.io/badge/JWT-f8efd4?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=783c00)
+![Spring](https://img.shields.io/badge/spring-f8efd4.svg?style=for-the-badge&logo=spring&logoColor=783c00)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-f8efd4.svg?style=for-the-badge&logo=springsecurity&logoColor=783c00)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-f8efd4.svg?style=for-the-badge&logo=springboot&logoColor=783c00)
 ![Git](https://img.shields.io/badge/GIT-f8efd4?style=for-the-badge&logo=git&logoColor=783c00)
 [![GitHub](https://img.shields.io/badge/GitHub-f8efd4?style=for-the-badge&logo=github&logoColor=783c00)](https://github.com/suelenmedinape)
 [![GitLab](https://img.shields.io/badge/GitLab-f8efd4?style=for-the-badge&logo=gitlab&logoColor=783c00)](https://gitlab.com/suelenmedinape)
-![C#](https://img.shields.io/badge/c%23-f8efd4.svg?style=for-the-badge&logo=c%2B%2B&logoColor=783c00)
-![.Net](https://img.shields.io/badge/.NET-f8efd4?style=for-the-badge&logo=.net&logoColor=783c00)
 ![Firebase](https://img.shields.io/badge/firebase-f8efd4.svg?style=for-the-badge&logo=firebase&logoColor=783c00)
 ![MySQL](https://img.shields.io/badge/MySQL-f8efd4?style=for-the-badge&logo=mysql&logoColor=783c00)
+![MongoDB](https://img.shields.io/badge/MongoDB-f8efd4.svg?style=for-the-badge&logo=mongodb&logoColor=783c00)
+![json](https://img.shields.io/badge/json-f8efd4.svg?style=for-the-badge&logo=json&logoColor=783c00)
+<!-- ![C#](https://img.shields.io/badge/c%23-f8efd4.svg?style=for-the-badge&logo=c%2B%2B&logoColor=783c00)
+![.Net](https://img.shields.io/badge/.NET-f8efd4?style=for-the-badge&logo=.net&logoColor=783c00)
+![.Net](https://img.shields.io/badge/ASP.NET%20Core-f8efd4?style=for-the-badge&logo=.net&logoColor=783c00) -->
 
 ## Meus Certificados
 
