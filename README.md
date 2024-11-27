@@ -9,10 +9,6 @@
 ## Minhas Habilidades
 
 ![Java](https://img.shields.io/badge/java-f8efd4.svg?style=for-the-badge&logo=openjdk&logoColor=783c00)
-![JWT](https://img.shields.io/badge/JWT-f8efd4?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=783c00)
-![Spring](https://img.shields.io/badge/spring-f8efd4.svg?style=for-the-badge&logo=spring&logoColor=783c00)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-f8efd4.svg?style=for-the-badge&logo=springsecurity&logoColor=783c00)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-f8efd4.svg?style=for-the-badge&logo=springboot&logoColor=783c00)
 ![Git](https://img.shields.io/badge/GIT-f8efd4?style=for-the-badge&logo=git&logoColor=783c00)
 [![GitHub](https://img.shields.io/badge/GitHub-f8efd4?style=for-the-badge&logo=github&logoColor=783c00)](https://github.com/suelenmedinape)
 [![GitLab](https://img.shields.io/badge/GitLab-f8efd4?style=for-the-badge&logo=gitlab&logoColor=783c00)](https://gitlab.com/suelenmedinape)
