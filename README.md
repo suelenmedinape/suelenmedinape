@@ -13,7 +13,7 @@
 <div align="center">
   <br/><br/><br/>
   
-  ## Tech Stack
+  ## Minhas Habilidades
 </div>
 
 <p align="center">
