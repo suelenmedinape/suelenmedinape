@@ -8,7 +8,7 @@
 
 [![Static GitHub](https://img.shields.io/static/v1?label=Projetos%20dos%20Cursos&message=medinspe&color=f8efd4&style=for-the-badge&logo=GitHub)](https://github.com/medinspe)  
 
-<p>Estudando no Intituto Federal onde faço Sistemas de Informação<br/> Eu sou desenvolvedor Backend</p>  
+<p>Estudando no Intituto Federal onde faço Sistemas de Informação<br/> Eu sou desenvolvedor Frontend</p>  
 
 <div align="center">
   <br/><br/><br/>
