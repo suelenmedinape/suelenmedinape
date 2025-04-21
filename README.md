@@ -1,16 +1,40 @@
 <div align="center">
   
-  # Olá, meu nome é Suelen Medina!
+  # Hi 👋, I'm Suelen!
   <br/>
 </div>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=suelenmedinape&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=suelenmedinape&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github"> 
 
-[![Static GitHub](https://img.shields.io/static/v1?label=Projetos%20dos%20Cursos&message=medinspe&color=f8efd4&style=for-the-badge&logo=GitHub)](https://github.com/medinspe)  
-
-<p>Estudando no Intituto Federal onde faço Sistemas de Informação<br/> Eu sou desenvolvedor Frontend</p>  
+<h3 align="center">Frontend Developer | Junior Developer <br/> Information Systems Student</h3>
 
 <div align="center">
+  
+<p> 🌱 I’m currently learning <strong> Javascript e TypeScript </strong> </p>
+<p> 📫 How to reach me <strong> suelenmedinape@gmail.com </strong> </p>
+
+</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/suelenmedidnape/"> <img src="https://img.shields.io/badge/LinkedIn-f8efd4?style=for-the-badge&logo=inspire&logoColor=783c00" alt="LinkedIn" /> </a>
+<a href="mailto:suelenmedinap"> <img src="https://img.shields.io/badge/Gmail-f8efd4?style=for-the-badge&logo=gmail&logoColor=783c00" alt="Gmail" /> </a>
+<a href="https://www.instagram.com/suelenmedinap/"> <img src="https://img.shields.io/badge/-Instagram-f8efd4?style=for-the-badge&logo=instagram&logoColor=783c00" alt="Instagram" /> </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <img src="https://img.shields.io/badge/GIT-f8efd4?style=for-the-badge&logo=git&logoColor=783c00" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-f8efd4?style=for-the-badge&logo=github&logoColor=783c00" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-f8efd4.svg?style=for-the-badge&logo=postman&logoColor=783c00" alt="Postman" />
+  <img src="https://img.shields.io/badge/Tailwindcss-f8efd4.svg?style=for-the-badge&logo=tailwindcss&logoColor=783c00" alt="TailwindCSS" /> 
+  <img src="https://img.shields.io/badge/Angular-f8efd4.svg?style=for-the-badge&logo=angular&logoColor=783c00" alt="Angular" />
+  <img src="https://img.shields.io/badge/JavaScript-f8efd4.svg?style=for-the-badge&logo=javascript&logoColor=783c00" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-f8efd4.svg?style=for-the-badge&logo=typescript&logoColor=783c00" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/WebStorm-f8efd4.svg?style=for-the-badge&logo=webstorm&logoColor=783c00" alt="WebStorm" />
+  <img src="https://img.shields.io/badge/Vscode-f8efd4.svg?style=for-the-badge&logo=vscode&logoColor=783c00" alt="Vscode" />
+</p>
+
+<!-- <div align="center">
   <br/><br/><br/>
   
   ## Minhas Habilidades
@@ -28,7 +52,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) -->
 
-<div align="center"> 
+<!-- <div align="center"> 
   <table>
   <tr>
     <td align="center"><strong>Controle de Versão</strong></td>
@@ -61,7 +85,7 @@
 </div>
 <!-- ![.Net](https://img.shields.io/badge/ASP.NET%20Core-f8efd4?style=for-the-badge&logo=.net&logoColor=783c00) -->
 
-<div align="center">
+<!-- <div align="center">
   
   ## Contato
 </div>
@@ -69,6 +93,6 @@
   <a href="https://www.linkedin.com/in/suelenmedidnape/"> <img src="https://img.shields.io/badge/LinkedIn-f8efd4?style=for-the-badge&logo=inspire&logoColor=783c00" alt="LinkedIn" /> </a>
   <a href="mailto:suelenmedinap"> <img src="https://img.shields.io/badge/Gmail-f8efd4?style=for-the-badge&logo=gmail&logoColor=783c00" alt="Gmail" /> </a>
   <a href="https://www.instagram.com/suelenmedinap/"> <img src="https://img.shields.io/badge/-Instagram-f8efd4?style=for-the-badge&logo=instagram&logoColor=783c00" alt="Instagram" /> </a>
-</div>
+</div> -->
 
 
