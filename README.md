@@ -13,6 +13,8 @@
 <p> 🌱 I’m currently learning <strong> Javascript e TypeScript </strong> </p>
 <p> 📫 How to reach me <strong> suelenmedinape@gmail.com </strong> </p>
 
+<br/>
+
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
