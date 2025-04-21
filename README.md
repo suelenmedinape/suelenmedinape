@@ -30,6 +30,8 @@
   <img src="https://img.shields.io/badge/Postman-f8efd4.svg?style=for-the-badge&logo=postman&logoColor=783c00" alt="Postman" />
   <img src="https://img.shields.io/badge/Tailwindcss-f8efd4.svg?style=for-the-badge&logo=tailwindcss&logoColor=783c00" alt="TailwindCSS" /> 
   <img src="https://img.shields.io/badge/Angular-f8efd4.svg?style=for-the-badge&logo=angular&logoColor=783c00" alt="Angular" />
+  <img src="https://img.shields.io/badge/HTML-f8efd4.svg?style=for-the-badge&logo=html5&logoColor=783c00" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-f8efd4.svg?style=for-the-badge&logo=css3&logoColor=783c00" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-f8efd4.svg?style=for-the-badge&logo=javascript&logoColor=783c00" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-f8efd4.svg?style=for-the-badge&logo=typescript&logoColor=783c00" alt="TypeScript" />
   <img src="https://img.shields.io/badge/WebStorm-f8efd4.svg?style=for-the-badge&logo=webstorm&logoColor=783c00" alt="WebStorm" />
