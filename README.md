@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/JavaScript-f8efd4.svg?style=for-the-badge&logo=javascript&logoColor=783c00" alt="JavaScript" />
   <!--<img src="https://img.shields.io/badge/TypeScript-f8efd4.svg?style=for-the-badge&logo=typescript&logoColor=783c00" alt="TypeScript" />-->
   <img src="https://img.shields.io/badge/WebStorm-f8efd4.svg?style=for-the-badge&logo=webstorm&logoColor=783c00" alt="WebStorm" />
-  <img src="https://img.shields.io/badge/Vscode-f8efd4.svg?style=for-the-badge&logo=vscode&logoColor=783c00" alt="Vscode" />
 </p>
 
 <!-- <div align="center">
