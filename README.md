@@ -6,7 +6,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=suelenmedinape&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github"> 
 
-<h3 align="center">Frontend Developer | Junior Developer <br/> Information Systems Student</h3>
+<h3 align="center">Frontend Developer <br/> Information Systems Student</h3>
 
 <div align="center">
   
