@@ -4,41 +4,40 @@
   <br/>
 </div>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=suelenmedinape&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github"> 
 
-<h3 align="center">Frontend Developer <br/> Information Systems Student</h3>
+<h3 align="center">Web Developer <br/> Information Systems Student</h3>
 
 <div align="center">
   
-<p> 🌱 I’m currently learning <strong> Javascript e TypeScript </strong> </p>
-<p> 📫 How to reach me <strong> suelenmedinape@gmail.com </strong> </p>
+<p> 🌱 I’m currently learning <strong> TypeScript </strong> and <strong> Node.js </strong> </p>
 
 <br/>
 
-</div>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/suelenmedidnape/"> <img src="https://img.shields.io/badge/LinkedIn-f8efd4?style=for-the-badge&logo=inspire&logoColor=783c00" alt="LinkedIn" /> </a>
-<a href="mailto:suelenmedinap"> <img src="https://img.shields.io/badge/Gmail-f8efd4?style=for-the-badge&logo=gmail&logoColor=783c00" alt="Gmail" /> </a>
-<a href="https://www.instagram.com/suelenmedinap/"> <img src="https://img.shields.io/badge/-Instagram-f8efd4?style=for-the-badge&logo=instagram&logoColor=783c00" alt="Instagram" /> </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
   <img src="https://img.shields.io/badge/GIT-f8efd4?style=for-the-badge&logo=git&logoColor=783c00" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-f8efd4?style=for-the-badge&logo=github&logoColor=783c00" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-f8efd4?style=for-the-badge&logo=github&logoColor=783c00" alt="GitHub" />  <br />
   <!--<img src="https://img.shields.io/badge/Tailwindcss-f8efd4.svg?style=for-the-badge&logo=tailwindcss&logoColor=783c00" alt="TailwindCSS" /> 
   <img src="https://img.shields.io/badge/Angular-f8efd4.svg?style=for-the-badge&logo=angular&logoColor=783c00" alt="Angular" />-->
   <!--<img src="https://img.shields.io/badge/HTML-f8efd4.svg?style=for-the-badge&logo=html5&logoColor=783c00" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-f8efd4.svg?style=for-the-badge&logo=css3&logoColor=783c00" alt="CSS" />-->
   <img src="https://img.shields.io/badge/JavaScript-f8efd4.svg?style=for-the-badge&logo=javascript&logoColor=783c00" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-f8efd4.svg?style=for-the-badge&logo=typescript&logoColor=783c00" alt="TypeScript" />
   <img src="https://img.shields.io/badge/vite-f8efd4.svg?style=for-the-badge&logo=vite&logoColor=783c00" alt="Vite" />
-  <img src="https://img.shields.io/badge/node.js-f8efd4.svg?style=for-the-badge&logo=node.js&logoColor=783c00" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-f8efd4.svg?style=for-the-badge&logo=typescript&logoColor=783c00" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/node.js-f8efd4.svg?style=for-the-badge&logo=node.js&logoColor=783c00" alt="Node.js" />  <br />
   <!--<img src="https://img.shields.io/badge/TypeScript-f8efd4.svg?style=for-the-badge&logo=typescript&logoColor=783c00" alt="TypeScript" />-->
   <img src="https://img.shields.io/badge/WebStorm-f8efd4.svg?style=for-the-badge&logo=webstorm&logoColor=783c00" alt="WebStorm" />
   <img src="https://img.shields.io/badge/Postman-f8efd4.svg?style=for-the-badge&logo=postman&logoColor=783c00" alt="Postman" />
 </p>
+
+</div>
+<br /><br />
+<p align="center">
+<a href="https://www.linkedin.com/in/suelenmedidnape/"> <img src="https://img.shields.io/badge/LinkedIn-f8efd4?style=for-the-badge&logo=inspire&logoColor=783c00" alt="LinkedIn" /> </a>
+<a href="mailto:suelenmedinap"> <img src="https://img.shields.io/badge/Gmail-f8efd4?style=for-the-badge&logo=gmail&logoColor=783c00" alt="Gmail" /> </a>
+<a href="https://www.instagram.com/suelenmedinap/"> <img src="https://img.shields.io/badge/-Instagram-f8efd4?style=for-the-badge&logo=instagram&logoColor=783c00" alt="Instagram" /> </a>
+</p>
+
+
 
 <!--![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)-->
