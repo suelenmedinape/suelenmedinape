@@ -9,7 +9,7 @@
 
 <div align="center">
   
-<p> 🌱 I’m currently learning <strong> TypeScript </strong> and <strong> Node.js </strong> </p>
+<p> 🌱 I’m currently learning <strong> JavaScript </strong> and <strong> Node.js </strong> </p>
 
 <br/>
 
