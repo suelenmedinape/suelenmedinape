@@ -38,7 +38,7 @@
 
 <br /><br />
 <p align="center">
-<a href="https://www.linkedin.com/in/suelenmedidnape/"> <img src="https://img.shields.io/badge/LinkedIn-f8efd4?style=for-the-badge&logo=inspire&logoColor=783c00" alt="LinkedIn" /> </a>
+<a href="www.linkedin.com/in/suelenmedinape"> <img src="https://img.shields.io/badge/LinkedIn-f8efd4?style=for-the-badge&logo=inspire&logoColor=783c00" alt="LinkedIn" /> </a>
 <a href="mailto:suelenmedinap"> <img src="https://img.shields.io/badge/Gmail-f8efd4?style=for-the-badge&logo=gmail&logoColor=783c00" alt="Gmail" /> </a>
 <a href="https://www.instagram.com/suelenmedinap/"> <img src="https://img.shields.io/badge/-Instagram-f8efd4?style=for-the-badge&logo=instagram&logoColor=783c00" alt="Instagram" /> </a>
 </p>
