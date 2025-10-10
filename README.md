@@ -26,7 +26,9 @@
   <img src="https://img.shields.io/badge/node.js-f8efd4.svg?style=for-the-badge&logo=node.js&logoColor=783c00" alt="Node.js" /> <br />
   <img src="https://img.shields.io/badge/postgres-f8efd4.svg?style=for-the-badge&logo=postgresql&logoColor=783c00" alt="Postgres" /> 
   <img src="https://img.shields.io/badge/supabase-f8efd4.svg?style=for-the-badge&logo=supabase&logoColor=783c00" alt="Supabase" /> 
-  <!--![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+  <img src="https://img.shields.io/badge/Prisma-f8efd4.svg?style=for-the-badge&logo=Prisma&logoColor=783c00" alt="Prisma" /> 
+  <!--![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   <img src="https://img.shields.io/badge/TypeScript-f8efd4.svg?style=for-the-badge&logo=typescript&logoColor=783c00" alt="TypeScript" />
   <img src="https://img.shields.io/badge/WebStorm-f8efd4.svg?style=for-the-badge&logo=webstorm&logoColor=783c00" alt="WebStorm" />
