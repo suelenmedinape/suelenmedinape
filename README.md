@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Postman-f8efd4.svg?style=for-the-badge&logo=postman&logoColor=783c00" alt="Postman" />-->
 </p>
 
-<br /><br />
+<br />
 <p align="center">
 <a href="https://www.linkedin.com/in/suelenmedinape"> <img src="https://img.shields.io/badge/LinkedIn-f8efd4?style=for-the-badge&logo=inspire&logoColor=783c00" alt="LinkedIn" /> </a>
 <a href="mailto:suelenmedinap"> <img src="https://img.shields.io/badge/Gmail-f8efd4?style=for-the-badge&logo=gmail&logoColor=783c00" alt="Gmail" /> </a>
