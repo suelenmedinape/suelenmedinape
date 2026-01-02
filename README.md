@@ -24,14 +24,13 @@
   <img src="https://img.shields.io/badge/Angular-f8efd4.svg?style=for-the-badge&logo=angular&logoColor=783c00" alt="Angular" />
   <img src="https://img.shields.io/badge/Tailwindcss-f8efd4.svg?style=for-the-badge&logo=tailwindcss&logoColor=783c00" alt="Tailwind" /><br />
   <!--<img src="https://img.shields.io/badge/vite-f8efd4.svg?style=for-the-badge&logo=vite&logoColor=783c00" alt="Vite" />
-  <img src="https://img.shields.io/badge/TypeScript-f8efd4.svg?style=for-the-badge&logo=typescript&logoColor=783c00" alt="TypeScript" />-->
-  <img src="https://img.shields.io/badge/node.js-f8efd4.svg?style=for-the-badge&logo=node.js&logoColor=783c00" alt="Node.js" /> 
+  <img src="https://img.shields.io/badge/TypeScript-f8efd4.svg?style=for-the-badge&logo=typescript&logoColor=783c00" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/node.js-f8efd4.svg?style=for-the-badge&logo=node.js&logoColor=783c00" alt="Node.js" /> -->
   <!--<img src="https://img.shields.io/badge/NestJS-f8efd4.svg?style=for-the-badge&logo=nestjs&logoColor=783c00" alt="Nestjs" />-->
+  <img src="https://img.shields.io/badge/c%23-f8efd4.svg?style=for-the-badge&logo=c%2B%2B&logoColor=783c00" alt="C#" /> 
   <img src="https://img.shields.io/badge/docker-f8efd4.svg?style=for-the-badge&logo=docker&logoColor=783c00" alt="Docker" /> 
   <img src="https://img.shields.io/badge/postgres-f8efd4.svg?style=for-the-badge&logo=postgresql&logoColor=783c00" alt="Postgres" /> 
   <!--<img src="https://img.shields.io/badge/supabase-f8efd4.svg?style=for-the-badge&logo=supabase&logoColor=783c00" alt="Supabase" /> 
-  <img src="https://img.shields.io/badge/Prisma-f8efd4.svg?style=for-the-badge&logo=Prisma&logoColor=783c00" alt="Prisma" /> 
-  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   <img src="https://img.shields.io/badge/TypeScript-f8efd4.svg?style=for-the-badge&logo=typescript&logoColor=783c00" alt="TypeScript" />
