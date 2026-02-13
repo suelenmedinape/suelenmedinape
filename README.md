@@ -22,12 +22,14 @@
   <img src="https://img.shields.io/badge/CSS-f8efd4.svg?style=for-the-badge&logo=css3&logoColor=783c00" alt="CSS" />-->
   <img src="https://img.shields.io/badge/TypeScript-f8efd4.svg?style=for-the-badge&logo=typescript&logoColor=783c00" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Angular-f8efd4.svg?style=for-the-badge&logo=angular&logoColor=783c00" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-f8efd4.svg?style=for-the-badge&logo=react&logoColor=783c00" alt="React" />
   <img src="https://img.shields.io/badge/Tailwindcss-f8efd4.svg?style=for-the-badge&logo=tailwindcss&logoColor=783c00" alt="Tailwind" /><br />
   <!--<img src="https://img.shields.io/badge/vite-f8efd4.svg?style=for-the-badge&logo=vite&logoColor=783c00" alt="Vite" />
   <img src="https://img.shields.io/badge/TypeScript-f8efd4.svg?style=for-the-badge&logo=typescript&logoColor=783c00" alt="TypeScript" />
   <img src="https://img.shields.io/badge/node.js-f8efd4.svg?style=for-the-badge&logo=node.js&logoColor=783c00" alt="Node.js" /> -->
   <!--<img src="https://img.shields.io/badge/NestJS-f8efd4.svg?style=for-the-badge&logo=nestjs&logoColor=783c00" alt="Nestjs" />-->
   <img src="https://img.shields.io/badge/c%23-f8efd4.svg?style=for-the-badge&logo=c%2B%2B&logoColor=783c00" alt="C#" /> 
+  <img src="https://img.shields.io/badge/.NET-f8efd4.svg?style=for-the-badge&logo=.net&logoColor=783c00" alt=".NET" /> 
   <img src="https://img.shields.io/badge/docker-f8efd4.svg?style=for-the-badge&logo=docker&logoColor=783c00" alt="Docker" /> 
   <img src="https://img.shields.io/badge/postgres-f8efd4.svg?style=for-the-badge&logo=postgresql&logoColor=783c00" alt="Postgres" /> 
   <!--<img src="https://img.shields.io/badge/supabase-f8efd4.svg?style=for-the-badge&logo=supabase&logoColor=783c00" alt="Supabase" /> 
