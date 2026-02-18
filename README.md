@@ -9,7 +9,7 @@
 
 <div align="center">
   
-<p> 🌱 I’m currently learning <strong> Angular </strong> and <strong> Node.js </strong> </p>
+<p> 🌱 I’m currently learning <strong> C# </strong> </p>
 
 <br/>
 
