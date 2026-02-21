@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/CSS-f8efd4.svg?style=for-the-badge&logo=css3&logoColor=783c00" alt="CSS" />-->
   <img src="https://img.shields.io/badge/TypeScript-f8efd4.svg?style=for-the-badge&logo=typescript&logoColor=783c00" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Angular-f8efd4.svg?style=for-the-badge&logo=angular&logoColor=783c00" alt="Angular" />
-  <img src="https://img.shields.io/badge/React-f8efd4.svg?style=for-the-badge&logo=react&logoColor=783c00" alt="React" />
   <img src="https://img.shields.io/badge/Tailwindcss-f8efd4.svg?style=for-the-badge&logo=tailwindcss&logoColor=783c00" alt="Tailwind" /><br />
   <!--<img src="https://img.shields.io/badge/vite-f8efd4.svg?style=for-the-badge&logo=vite&logoColor=783c00" alt="Vite" />
   <img src="https://img.shields.io/badge/TypeScript-f8efd4.svg?style=for-the-badge&logo=typescript&logoColor=783c00" alt="TypeScript" />
