@@ -29,6 +29,7 @@
   <!--<img src="https://img.shields.io/badge/NestJS-f8efd4.svg?style=for-the-badge&logo=nestjs&logoColor=783c00" alt="Nestjs" />-->
   <img src="https://img.shields.io/badge/c%23-f8efd4.svg?style=for-the-badge&logo=c%2B%2B&logoColor=783c00" alt="C#" /> 
   <img src="https://img.shields.io/badge/.NET-f8efd4.svg?style=for-the-badge&logo=.net&logoColor=783c00" alt=".NET" /> 
+  <img src="https://img.shields.io/badge/go-f8efd4.svg?style=for-the-badge&logo=go&logoColor=783c00" alt="Go" /> 
   <img src="https://img.shields.io/badge/docker-f8efd4.svg?style=for-the-badge&logo=docker&logoColor=783c00" alt="Docker" /> 
   <img src="https://img.shields.io/badge/postgres-f8efd4.svg?style=for-the-badge&logo=postgresql&logoColor=783c00" alt="Postgres" /> 
   <!--<img src="https://img.shields.io/badge/supabase-f8efd4.svg?style=for-the-badge&logo=supabase&logoColor=783c00" alt="Supabase" /> 
