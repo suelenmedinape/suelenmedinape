@@ -9,7 +9,7 @@
 
 <div align="center">
   
-<p> 🌱 I’m currently learning <strong> C# </strong> </p>
+<p> 🌱 I'm currently deep diving into Software Architecture <strong> .NET </strong> and exploring <strong> Golang </strong> for high-performance microservices. </p>
 
 <br/>
 
