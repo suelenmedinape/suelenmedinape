@@ -9,7 +9,7 @@
 
 <div align="center">
   
-<p> 🌱 I'm currently deep diving into Software Architecture <strong> .NET </strong> <br/> and exploring <strong> Golang </strong> for high-performance microservices. </p>
+<p> 🌱 I'm currently deep diving into Software Architecture <strong> .NET </strong> <br/> and exploring <strong> Angular 22 </strong> for high-performance. </p>
 
 <br/>
 
